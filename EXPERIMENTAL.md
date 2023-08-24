@@ -1,3 +1,5 @@
+This is a detached fork of lemmy server. Not to be confused with lemmy-ui or other front-end applications.
+
 This project is experimental.
 
 It is starting with the Lemmy server Rust codebase. Thank you to the Lemmy project.
