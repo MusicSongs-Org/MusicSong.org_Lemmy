@@ -4,7 +4,7 @@ This project is experimental.
 
 It is starting with the Lemmy server Rust codebase. Thank you to the Lemmy project.
 
-## Epxectations
+## Expectations
 
 1. No claims are made to be able to replace Reddit or other traditioanl sites. Features are lacking and there are known performance problems with the SQL in the code.
 2. There are known bugs realted to data integrity and consistency sharing data with peer servers.
