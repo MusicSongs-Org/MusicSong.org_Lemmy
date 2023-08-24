@@ -12,6 +12,16 @@ It is starting with the Lemmy server Rust codebase. Thank you to the Lemmy proje
 4. Experimental may me broken code just for the sake of trying out new features or addressing some crash or design issue.
 5. Nobody has hired or funded this project at start, it's just contribuiton of free labor currently, and please understand that it is encourged to seek out alternates as you wish. Part of being on the ActivePub federated network is to have choices.
 
-The Wiki on GitHub has more about why this fork and the new website was created on August 24, 2023.
+The [Wiki on GitHub](https://github.com/MusicSongs-Org/MusicSongs.org_Lemmy/wiki) has more about why this fork and the new website was created on August 24, 2023.
 
 Thank you and may all men have a better future.
+
+# Docker, Install, etc
+
+Docker or other install scripts are outside the scope of the project, part of eperimental is to try and break free to do things more 'from sratch' install as Lemmy project calls it.
+
+It is generally advised to run with PostgreSQL 15.4 or PostgreSQL 16. Compiling the Rust app from scratch is pretty much recommended and gets around need to have Docker builds for ARM and others, as expereince shows that Lemmy's Rust code compiles fine on ARM servers.
+
+Thep project does not provide support or make claims to do so... the goal is to try and highlight where compatibility with Lemmy server's main code might be broken and go from there.
+
+Thank you.
